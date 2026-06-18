@@ -2,11 +2,11 @@
 ==
 Github
 --
-pembelajaran baru akan dimulai
+pembelajaran new akan dimulai
 - tahap 1
 - -tahap 2
+- tahap 2.1
 - tahap 3
 - tahap 4
-- tahap 5
 
 ini yang akan dilakukan besok
