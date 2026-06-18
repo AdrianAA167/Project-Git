@@ -8,5 +8,6 @@ The new lesson will begin
 - tahap 3
 - tahap 4
 - tahap 5
+- tahap 6
 
 ini yang akan dilakukan besok
