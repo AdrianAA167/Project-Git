@@ -2,7 +2,7 @@
 ==
 Github
 --
-pembelajaran baru akan dimulai
+The new lesson will begin
 - tahap 1
 - -tahap 2
 - tahap 3
